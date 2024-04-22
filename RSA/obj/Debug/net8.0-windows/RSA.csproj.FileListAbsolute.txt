@@ -1,0 +1,16 @@
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA sifravimas\RSA\RSA\obj\Debug\net8.0-windows\RSA.Form1.resources
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA sifravimas\RSA\RSA\obj\Debug\net8.0-windows\RSA.csproj.GenerateResource.cache
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA sifravimas\RSA\RSA\obj\Debug\net8.0-windows\RSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA sifravimas\RSA\RSA\obj\Debug\net8.0-windows\RSA.AssemblyInfoInputs.cache
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA sifravimas\RSA\RSA\obj\Debug\net8.0-windows\RSA.AssemblyInfo.cs
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA sifravimas\RSA\RSA\obj\Debug\net8.0-windows\RSA.csproj.CoreCompileInputs.cache
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA sifravimas\RSA\RSA\bin\Debug\net8.0-windows\RSA.exe
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA sifravimas\RSA\RSA\bin\Debug\net8.0-windows\RSA.deps.json
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA sifravimas\RSA\RSA\bin\Debug\net8.0-windows\RSA.runtimeconfig.json
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA sifravimas\RSA\RSA\bin\Debug\net8.0-windows\RSA.dll
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA sifravimas\RSA\RSA\bin\Debug\net8.0-windows\RSA.pdb
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA sifravimas\RSA\RSA\obj\Debug\net8.0-windows\RSA.dll
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA sifravimas\RSA\RSA\obj\Debug\net8.0-windows\refint\RSA.dll
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA sifravimas\RSA\RSA\obj\Debug\net8.0-windows\RSA.pdb
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA sifravimas\RSA\RSA\obj\Debug\net8.0-windows\RSA.genruntimeconfig.cache
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA sifravimas\RSA\RSA\obj\Debug\net8.0-windows\ref\RSA.dll
